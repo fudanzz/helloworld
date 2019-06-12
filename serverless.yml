@@ -21,7 +21,7 @@ provider:
   name: aws
   runtime: nodejs8.10
   region: us-east-1
-  profile: admin
+  
 
 # you can overwrite defaults here
 #  stage: dev
